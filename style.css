@@ -1,0 +1,12 @@
+body {
+margin-left: 100px; 
+margin-right: 100px;   
+}
+nav {
+    background-color: brown;
+
+}
+footer
+{ background-color: chartreuse;
+    height: 400px;
+}
